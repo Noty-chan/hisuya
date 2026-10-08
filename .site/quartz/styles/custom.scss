@@ -1,0 +1,13 @@
+@use "./base.scss";
+
+// Comfortable reading and touch targets on phones.
+body { font-size: 17px; }
+article { line-height: 1.75; overflow-wrap: anywhere; }
+article img { max-width: 100%; height: auto; border-radius: 8px; }
+article .table-container { overflow-x: auto; }
+@media (max-width: 800px) {
+  article { font-size: 16px; }
+  article h1 { font-size: 1.8rem; }
+  .search-button, .darkmode, .readermode, button.mobile-explorer { min-height: 44px; }
+  .explorer-content a { min-height: 36px; display: flex; align-items: center; }
+}

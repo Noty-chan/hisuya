@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "767ef6be73587296",
+      "x": -180,
+      "y": -20,
+      "width": 220,
+      "height": 60,
+      "type": "text",
+      "text": "Способности"
+    },
+    {
+      "id": "edf421597c72c04b",
+      "x": -180,
+      "y": 280,
+      "width": 220,
+      "height": 60,
+      "type": "text",
+      "text": "Пассивные"
+    },
+    {
+      "id": "9cd017c4ebba7ba7",
+      "x": 320,
+      "y": 280,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Нарративные"
+    },
+    {
+      "id": "5b9c8c91ea3de68c",
+      "x": -660,
+      "y": 280,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Активные"
+    }
+  ],
+  "edges": []
+}

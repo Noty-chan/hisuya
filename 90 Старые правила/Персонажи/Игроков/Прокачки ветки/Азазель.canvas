@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "767ef6be73587296",
+      "type": "text",
+      "text": "Способности",
+      "x": -180,
+      "y": -20,
+      "width": 220,
+      "height": 60
+    },
+    {
+      "id": "edf421597c72c04b",
+      "type": "text",
+      "text": "Пассивные",
+      "x": -180,
+      "y": 280,
+      "width": 220,
+      "height": 60
+    },
+    {
+      "id": "9cd017c4ebba7ba7",
+      "type": "text",
+      "text": "Нарративные",
+      "x": 320,
+      "y": 280,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "5b9c8c91ea3de68c",
+      "type": "text",
+      "text": "Активные",
+      "x": -660,
+      "y": 280,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2a601d0a79b31b4f",
+      "type": "text",
+      "text": "ПРОБУЖДЕНИЕ",
+      "x": -1380,
+      "y": 280,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "f47fe3386d21ac8c",
+      "type": "text",
+      "text": "Плюс: \nЗмей может действовать автономно на небольшом расстоянии до десяти метров. С ней можно меняться местами, она может возвращаться в тело. Она ходит в каждом четном раунде.\n\nМинус:\nЗмей пробуждается, обретая характер и на может поступать согласно ему. Перед началом каждой миссии нужно бросать фокус, чтобы определить степень контроля.\n",
+      "x": -1417,
+      "y": 440,
+      "width": 325,
+      "height": 420
+    },
+    {
+      "id": "2a36b59b67fee4c0",
+      "x": -940,
+      "y": 620,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Змей теперь долька"
+    },
+    {
+      "id": "ddbc8fbbef971a23",
+      "x": -940,
+      "y": 720,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Её нужно кормить"
+    },
+    {
+      "id": "efdc01d1c43cbdfb",
+      "x": -940,
+      "y": 510,
+      "width": 250,
+      "height": 60,
+      "type": "text",
+      "text": "Ей бывает скучно"
+    },
+    {
+      "id": "087fa35d95821180",
+      "x": -1840,
+      "y": 540,
+      "width": 250,
+      "height": 220,
+      "type": "text",
+      "text": "Способность Kurohebi-mon может хранить вещи и может быть передвинута без повторного создания один раз. Существует 2 цикла. "
+    }
+  ],
+  "edges": [
+    {
+      "id": "41a6ac72c04187dc",
+      "fromNode": "2a601d0a79b31b4f",
+      "fromSide": "bottom",
+      "toNode": "f47fe3386d21ac8c",
+      "toSide": "top",
+      "label": "1 очко"
+    },
+    {
+      "id": "4906516327bba2e5",
+      "fromNode": "f47fe3386d21ac8c",
+      "fromSide": "right",
+      "toNode": "2a36b59b67fee4c0",
+      "toSide": "left"
+    },
+    {
+      "id": "57b680fc8b516a16",
+      "fromNode": "2a36b59b67fee4c0",
+      "fromSide": "bottom",
+      "toNode": "ddbc8fbbef971a23",
+      "toSide": "top"
+    },
+    {
+      "id": "0c934f378b03189e",
+      "fromNode": "2a36b59b67fee4c0",
+      "fromSide": "top",
+      "toNode": "efdc01d1c43cbdfb",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1c06c1eeed002461",
+      "fromNode": "f47fe3386d21ac8c",
+      "fromSide": "left",
+      "toNode": "087fa35d95821180",
+      "toSide": "right"
+    }
+  ]
+}

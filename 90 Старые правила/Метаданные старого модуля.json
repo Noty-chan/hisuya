@@ -1,0 +1,214 @@
+[
+  [
+    "02 Фракции/Манакризис.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"36882695-5e54-48ad-8ff6-15ea5c131b9d\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Манакризис\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "02 Фракции/Небесная Академия.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"884245b2-c962-4a0e-93af-71529d8cfa1f\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Небесная Академия\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "02 Фракции/Ночная Стража.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"5ab337aa-00f1-443d-9a4a-1df17b7ee0da\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Ночная Стража\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "02 Фракции/Совет.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"b7025425-c869-40f3-beea-0d46802509dd\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Совет\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Игроков/Кассиэль Ми Микилин.md\"\n    description: \"Вторая советница\"\n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Совет/5 – Эйлия Теехнар.md\"\n    description: \"Пятая советница\"\n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Совет/4 – Корелиан Амбросий.md\"\n    description: \"Четвертый советник\"\n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Совет/1 – Равельир Эленвиэль.md\"\n    description: \"Первый советник\""
+  ],
+  [
+    "02 Фракции/Туманная Гвардия.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"c7233b70-cf16-48fd-8988-bb8450098339\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Туманная Гвардия\"\n    type: \"creation\"\n    status: \"proposed\"\n  - id: \"ec1fcaed-5078-4587-9fed-eca88361bbc9\"\n    priority: 2\n    name: \"Получение новой поставки обсидина\"\n    description: \n    status: \"incomplete\"\n    type: \"custom\"\n  - id: \"86578b7e-aedd-4057-b7f2-7ff3365d2ac3\"\n    priority: 1\n    name: \"Меры против тех, кто уничтожил их портал с демоном\"\n    description: \n    status: \"incomplete\"\n    type: \"custom\"\n  - id: \"d30a3691-2b04-414b-b208-ea25b7288ad6\"\n    priority: 3\n    name: \"Улучшение обороны после выступления Боада и активных облав\"\n    description: \n    status: \"incomplete\"\n    type: \"custom\"\ndata: \n  description: \" Организация, которая ненавидит текущий политический строй и хочет уничтожить совет, великие рода и все остальное. Для этого они даже спелись с демонами, вызывая их и направляя на верхение уровни. Их сила - в незаметности. Используя туман, они каждый раз ускользают практически от любого преследователя. Где их база никто не знает. Даже Джо обладает достаточно поверхностной информацией о них,  пусть и знает их лидера, которого зовут Мир. Говорят, что это человек силен и безжалостен, но его никто еще не видел. \""
+  ],
+  [
+    "02 Фракции/Великие Рода/Анаури.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"d02ceb44-1cf5-43f4-a3fb-8d036cf76d68\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Анаури\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "02 Фракции/Великие Рода/Манретэнн.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"448cd6d5-a709-4ef1-a354-3f7a14ab8d9a\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Манретэнн\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "02 Фракции/Великие Рода/Шурирен.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"8487a1df-5dc9-44b1-ba2c-83520c2bbe2d\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Шурирен\"\n    type: \"creation\"\n    status: \"proposed\"[[О падении Хисуи]]и Хисуи.md|]]"
+  ],
+  [
+    "02 Фракции/Дворянство/Дворняство - досье.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"231820f4-3f21-49d0-aaec-f270f146c509\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Дворняство - досье\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "02 Фракции/Пантеон Света/Ношоку (Гелиоклѐтта) — досье.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"3f129f62-8c6a-4b7e-9ee0-8a9a1f13a911\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Ношоку (Гелиоклѐтта) \"\n    status: \"incomplete\"\n    type: \"creation\"\ndata: \n  description: \"Ношоку (Гелиоклѐтта) — Королева Солнца и основательница Пантеона Света. Её истинная суть скрыта в аспекте Затмения: она стремится создать порядок через объединение света и тьмы. Возглавляет строительство сети храмов и подготовку Великого Затмения, чтобы навсегда изменить миры.\""
+  ],
+  [
+    "02 Фракции/Пантеон Света/Пантеон Света.md",
+    "id: \n  type: \"faction\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"1fb7be65-a978-4b5b-8688-3df47574d3b7\"\n    priority: 1\n    name: \"Complete Faction\"\n    description: \"Complete Faction Пантеон Света\"\n    type: \"creation\"\n    status: \"proposed\"\ndata: \n  factionstructure: \"Пантеон Света: 12 Факелов-Паладинов, Ордо Sigillum (мастера печатей), Аврологи (пророки рассвета), тайная полиция Сумеречных Клик.\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Фракции/Пантеон Света/Ношоку (Гелиоклѐтта) — досье.md\"\n    description: \"Лидер\""
+  ],
+  [
+    "03 Персонажи/Игроков/Авель.md",
+    "id: \n  type: \"playercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"d5561694-60a1-4ad4-a39c-eaa18d4af7e1\"\n    priority: 1\n    name: \"Complete Player Character\"\n    description: \"Complete Player Character Авель\"\n    type: \"creation\"\n    status: \"proposed\"\ndata: \n  contacts: 2\n  information: 2\n  willpower: 2\n  reputation: 2\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Фракции/Дворянство/Дворняство - досье.md\"\n    description: \"Один из семи лучших агентов\""
+  ],
+  [
+    "03 Персонажи/Игроков/Азазель.md",
+    "id: \n  type: \"playercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"ad195acd-4332-4aa1-bf29-8e3a6136d790\"\n    priority: 1\n    name: \"Complete Player Character\"\n    description: \"Complete Player Character Азазель\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Игроков/Бэндан.md",
+    "id: \n  type: \"playercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"9d9bf8a9-ea9d-4f48-94e2-7eccb844a604\"\n    priority: 1\n    name: \"Complete Player Character\"\n    description: \"Complete Player Character Бэндан\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Игроков/Каин.md",
+    "id: \n  type: \"playercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"c77993a3-c206-41d7-82da-449d30f70c51\"\n    priority: 1\n    name: \"Complete Player Character\"\n    description: \"Complete Player Character Каин\"\n    type: \"creation\"\n    status: \"proposed\"\ndata: \n  contacts: 1\n  information: 1\n  willpower: 4\n  reputation: 2\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Нижний Город/Доктор Лира Вентс.md\"\n    description: \"Она его лечит\""
+  ],
+  [
+    "03 Персонажи/Игроков/Кассиэль Ми Микилин.md",
+    "id: \n  type: \"playercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"7e3ff03e-ea1f-4ead-8117-0a7214ba0d58\"\n    priority: 1\n    name: \"Complete Player Character\"\n    description: \"Complete Player Character Кассиэль Ми Микилин\"\n    type: \"creation\"\n    status: \"proposed\"\ndata: \n  description: \"Кассиэль Ми Микилин — член Совета Хисуи, занимающая вторую по значимости позицию в качестве представителя Святой Церкви Солнца. Как посланница Богов Пантеона Света, она носит титул одной из Святых, даря миру исцеление от болезней и недугов любого рода. \"\n  _: 1\n  contacts: 3\n  information: 1\n  willpower: 1\n  reputation: 4\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Фракции/Пантеон Света/Пантеон Света.md\"\n    description: \"Высокопоставленная жрица\""
+  ],
+  [
+    "03 Персонажи/Игроков/Кор`Витарум.md",
+    "id: \n  type: \"playercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"47c0e2f2-fe18-4108-9a35-e5f98e30bfba\"\n    priority: 1\n    name: \"Complete Player Character\"\n    description: \"Complete Player Character Кор`Витарум\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Игроков/Шишка.md",
+    "id: \n  type: \"playercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"dc16e070-be15-48e3-8c74-73d8e958e367\"\n    priority: 1\n    name: \"Complete Player Character\"\n    description: \"Complete Player Character Шишка\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Киберпанк/Друг Луны.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"83c7664d-cdfb-49be-b12c-3e286c76baa1\"\n    priority: 1\n    name: \"Собрать в свою руку силу каждого из Королей.\"\n    description: \n    status: \"incomplete\"\n    type: \"custom\"\n  - id: \"0484a863-eb5d-4478-b529-5256a272818b\"\n    priority: 3\n    name: \"Выполнить задание Ношоку.\"\n    description: \n    status: \"incomplete\"\n    type: \"custom\"\n  - id: \"b5281830-0121-4f4c-bb2e-b01f5686a553\"\n    priority: 1\n    name: \"Учиться магии у Ислилиэль.\"\n    description: \n    status: \"incomplete\"\n    type: \"custom\"\ndata: \n  description: \"Друг Луны, он же Исильдил. Человек, подмявший под себя огромную часть \\\"киберпанка\\\" и тот, кто ведет войну с Хисуей. С его слов.\""
+  ],
+  [
+    "03 Персонажи/Киберпанк/Хроширн.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"8250ba98-3591-4a86-93b5-7613f8d42c7f\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Хроширн\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Пришедшие издалека/Джек Морнингстар.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"42c14c10-5a93-4b59-8600-e9a318bcff54\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Джек Морнингстар\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Королевства Людей/Пики/Кас.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"d707985f-3c2f-4fda-a6a7-6cede276b836\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Кас\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Персонажи/Фэнтези/Королевства Людей/Пики/Фантом.md\"\n    description: \"Коллега\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Королевства Людей/Пики/Фантом.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"41b82789-00a7-4cdb-b1ac-86e5f9928549\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Фантом\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Игроков/Азазель.md\"\n    description: \"Господин\"\n  - type: \"bidirectional\"\n    path: \"Архив/Персонажи/Фэнтези/Королевства Людей/Пики/Кас.md\"\n    description: \"Коллега, за которым надо следить\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Нокт'Нигра.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"5e9e662a-a01a-4531-894a-14998d51a895\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Нокт'Нигра\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Игроков/Кор`Витарум.md\"\n    description: \"Друг, потенциальный партнёр.\"\ndata: \n  description: \"Продавец снадобий для жителей нижнего и верхнего города. Продаёт не только снадобья но и кое-что что более интересное. Например - работает с магическими замками и печатями.\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Нижний Город/Джо из Манакризиса.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"4d76ecd2-2028-4eaf-a5ce-d7b2f65e9334\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Джо из Манакризиса\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Верхний Город/Манретэнн/Эвелин Манретэнн.md\"\n    description: \"Это его мать.\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Нижний Город/Доктор Лира Вентс.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"090ab287-5220-40d9-9563-c1935c229ad4\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Доктор Лира Вентс\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Нижний Город/Малик «Молот» Брешан.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"f67df1da-abeb-4b56-8d6f-52ce8d8cea98\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Малик «Молот» Брешан\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Нижний Город/Сера Восс.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"424d65ea-0859-401b-b699-2de3e6bb879d\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Сера Восс\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Совет/1 – Равельир Эленвиэль.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"8530cf61-c9b7-490f-9378-dda2fa9379dc\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character 1 – Равельир Эленвиэль\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Фракции/Совет.md\"\n    description: \"Первый советник\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Совет/4 – Корелиан Амбросий.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"14c34a2f-8443-489c-96b0-7e4ad4d1dff6\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character 4 – Корелиан Амбросий\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Фракции/Совет.md\"\n    description: \"Четвертый советник \""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Совет/5 – Эйлия Теехнар.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"4b3e4900-0aeb-4cf3-8de2-104a08ac908a\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character 5 – Эйлия Теехнар\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Фракции/Совет.md\"\n    description: \"Пятая советница\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Анаури/Амораллис тер Анаури.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"f7eea297-0a21-4825-8294-dac13f6e4bce\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Амораллис тер Анаури\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Верхний Город/Анаури/Тиари тер Анаури.md\"\n    description: \"Младшая сестра. Она постоянно во что-то влипает... нужно вернуть её в особняк и не выпускать. Хорошо, что рассказала про Петлю, молодец.\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Анаури/Арвел тер Анаури.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"4c91e931-e8df-4316-b109-c02e19805ccd\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Арвел тер Анаури\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Анаури/Тиари тер Анаури.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"058b02d2-08bb-4c5b-a399-8ea759acac68\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Тиари тер Анаури\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Верхний Город/Анаури/Амораллис тер Анаури.md\"\n    description: \"Старшая сестра. Любит, но не доверят, не видит во мне чего-то ценного!\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Манретэнн/Дикке Ми Манретэнн-Микилин.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"3569783c-863b-4790-8b48-db43e9c44367\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Дикке\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Персонажи/Игроков/Кассиэль Ми Микилин.md\"\n    description: \"Дочь\"[[Кассиэль Ми Микилин]].md|]]\n"
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Манретэнн/Орфин Манретэнн.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"905b61bc-ebf5-4953-b8ff-f2ecb75a5eba\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Орфин Манретэнн\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Персонажи/Игроков/Кассиэль Ми Микилин.md\"\n    description: \"Жена\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Манретэнн/Эвелин Манретэнн.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"43d3f030-7e7f-45c5-80a4-24527557d1b2\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Эвелин Манретэнн\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Шурирен/Анастасия Шурирен.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"b920e7ec-49c1-4352-961d-e2560c126c40\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Анастасия Шурирен\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Шурирен/Боад Шурирен.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"404f2569-68b4-4792-b638-ea2d3411dd4f\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Боад Шурирен\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Архив/Персонажи/Фэнтези/Хисуя/Верхний Город/Шурирен/Виктор Шурирен.md\"\n    description: \"Гончая клана, связанный магическим договором из другого времени. Не может ослушаться приказов, но не знает об этом.\"\n  - type: \"bidirectional\"\n    path: \"Персонажи/Фэнтези/Хисуя/Верхний Город/Шурирен/Анастасия Шурирен.md\"\n    description: \"Тоже гончая. Боад связан договором, который не позволяет вредить ей прямо или косвенно.\"\n  - type: \"bidirectional\"\n    path: \"Персонажи/Игроков/Авель.md\"\n    description: \"Нашли общий язык. Нужно сделать своим, и только своим союзником. Не знает, что Боад не часть дворняства.\"\n  - type: \"bidirectional\"\n    path: \"Персонажи/Игроков/Шишка.md\"\n    description: \"Спутник Авеля. Ослабляет влияние Хронофага???\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Шурирен/Виктор Шурирен.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"2461af40-d990-4d35-9883-4f1b17af1649\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Виктор Шурирен\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Хисуя/Верхний Город/Шурирен/Ланнок Шурирен.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"ccd3a4fd-87d9-45d5-a8bb-08f47978a89f\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Ланнок Шурирен\"\n    type: \"creation\"\n    status: \"proposed\"\nrelationships: \n  - type: \"bidirectional\"\n    path: \"Персонажи/Игроков/Азазель.md\"\n    description: \"Его сын. Не смог победить в битве за право управлять родом и сбежал в людские королевства. \"\n  - type: \"bidirectional\"\n    path: \"Архив/Персонажи/Фэнтези/Хисуя/Верхний Город/Шурирен/Боад Шурирен.md\"\n    description: \"Его внук. Взял бразды правления в свои руки после исчезноваения самого Ланнока.\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Эльфы/Принцессы/1. Аманиэль.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"ec98af56-9c80-4087-bdba-6f9a5a10d28d\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character 1. Аманиэль\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Эльфы/Принцессы/2. Анариэль.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"b6963061-c2e5-4825-9da7-c4ae4d926783\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character 2. Анариэль\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Эльфы/Принцессы/3. Исилиэль.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"5585a18a-8294-45cd-9666-40bae7c02adc\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character Исилиэль\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "03 Персонажи/Фэнтези/Эльфы/Принцессы/4. Лаириэль.md",
+    "id: \n  type: \"nonplayercharacter\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\ntasks: \n  - id: \"f29065b0-5a98-4ad3-917a-d6e21b4d035a\"\n    priority: 1\n    name: \"Complete Non-Player Character\"\n    description: \"Complete Non-Player Character 4. Лаириэль\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "04 Прошлые кампании/О падении Хисуи/.md",
+    "id: \n  type: \"scene\"\n  campaign: \"О падении Хисуи/О падении Хисуи.md\"\n  parent: \"Хронология/Описание Миссий/Миссия 1.md\"\n  positionInParent: 1\ntasks: \n  - id: \"4f7bec38-f608-4271-a6e8-38a3f0a59d3c\"\n    priority: 1\n    name: \"Complete Scene\"\n    description: \"Complete Scene Выбор задания \"\n    type: \"creation\"\n    status: \"proposed\"\ndata: \n  storycirclestage: \"need\"\n  description: \"\"\n  scenetype: \"\"\n  externalactions: false"
+  ],
+  [
+    "04 Прошлые кампании/О падении Хисуи/О падении Хисуи.md",
+    "id: \n  type: \"campaign\"\ntasks: \n  - id: \"22d30d7c-0f80-41f3-877c-18851d44bcc9\"\n    priority: 1\n    name: \"Complete Campaign\"\n    description: \"Complete Campaign О падении Хисуи\"\n    type: \"creation\"\n    status: \"proposed\"\ndata: \n  description: \"Хисуя — последний оплот между мирами магии и киберпанка. После похищения Сердца Хисуи и падения Стены Апофеоза город оказался в хаосе: механические чудовища вторглись, Великие Рода ослабли, преступность усилилась. Игроки — влиятельные и сильные герои, которые должны удержать город, раскрыть тайны исчезновения Сердца и изменить судьбу Хисуи.\""
+  ],
+  [
+    "04 Прошлые кампании/О падении Хисуи/Цикл 0 - Поляризация.md",
+    "id: \n  type: \"adventure\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  parent: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  positionInParent: 1\ntasks: \n  - id: \"2f2fafdd-49b9-4bf4-89dd-ecd0f1203d0f\"\n    priority: 1\n    name: \"Complete Adventure\"\n    description: \"Complete Adventure Цикл 0 - Поляризация\"\n    type: \"creation\"\n    status: \"proposed\""
+  ],
+  [
+    "04 Прошлые кампании/Хронология/Описание Миссий/Миссия 1.md",
+    "id: \n  type: \"session\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  parent: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  positionInParent: 1\ntasks: \n  - id: \"c086c9b4-3763-470b-b4f4-b94a7601d45d\"\n    priority: 3\n    name: \"возобновить связь с постом, доставить туда новых людей, узнать, что случилось \"\n    description: \"Complete Session Миссия 1\"\n    status: \"proposed\"\n    type: \"creation\"\ndata: \n  description: \"Наблюдательный пункт \\\"Рубеж-7\\\" - один из немногих, уцелевших сразу после падения стены из-за... {чего?}. Он поставлял данные, но недавно связь прервалась. Нужно проверить его и подготовить к дальнейшему функционированию. Однако из тех мест уже некоторое время не возвращаются развед отр[[О падении Хисуи]]адении Хисуи.md|]]"
+  ],
+  [
+    "04 Прошлые кампании/Хронология/Описание Миссий/Миссия 2.md",
+    "id: \n  type: \"session\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  parent: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  positionInParent: 2\ntasks: \n  - id: \"161044cb-e1d3-4c37-bfd8-7ba5e960a750\"\n    priority: 1\n    name: \"Complete Session\"\n    description: \"Complete Session Миссия 2\"\n    type: \"creation\"\n    status: \"prop[[О падении Хисуи]]адении Хисуи.md|]]"
+  ],
+  [
+    "04 Прошлые кампании/Хронология/Описание Миссий/Миссия 3.md",
+    "id: \n  type: \"session\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  parent: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  positionInParent: 3\ntasks: []\ndata: \n  descriptio[[О падении Хисуи]]адении Хисуи.md|]]\n"
+  ],
+  [
+    "04 Прошлые кампании/Хронология/Описание Миссий/Миссия 4.md",
+    "id: \n  type: \"session\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  parent: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  positionInParent: 4\ntasks: \n  - id: \"acb7c5b5-9f1b-434e-ad32-49b2440bae57\"\n    priority: 1\n    name: \"Complete Session\"\n    description: \"Complete Session Миссия 4\"\n    type: \"creation\"\n    status: \"prop[[О падении Хисуи]]адении Хисуи.md|]]\n"
+  ],
+  [
+    "04 Прошлые кампании/Хронология/Описание Миссий/Миссия 5.md",
+    "id: \n  type: \"session\"\n  campaign: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  parent: \"Архив/О падении Хисуи/О падении Хисуи.md\"\n  positionInParent: 5\ntasks: \n  - id: \"68057f12-7ffe-4fe9-874a-a1290630f769\"\n    priority: 1\n    name: \"Complete Session\"\n    description: \"Complete Session Миссия 5\"\n    type: \"creation\"\n    status: \"prop[[О падении Хисуи]]адении Хисуи.md|]]\n"
+  ]
+]

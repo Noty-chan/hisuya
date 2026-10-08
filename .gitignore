@@ -1,0 +1,13 @@
+.obsidian/
+.smart-env/
+.site/node_modules/
+.site/public/
+.site/content/
+.site/docs/
+.site/.github/
+.site/.quartz-cache/
+.site/tsconfig.tsbuildinfo
+**/__pycache__/
+*.log
+99 Постороннее и пустое/Ноти/
+99 Постороннее и пустое/noty_specification.md
